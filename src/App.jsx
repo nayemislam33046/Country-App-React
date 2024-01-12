@@ -1,5 +1,5 @@
 import React from 'react'
-import Home from './filledComponent/Home'
+import Home from './todoApp/Home'
 
 export default function App() {
   
