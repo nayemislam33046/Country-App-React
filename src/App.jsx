@@ -1,10 +1,13 @@
 import React from 'react'
-import CounterApp from './CounterApp/CounterApp'
 import './style.css'
+import Home from './CountryApp/Home'
+
 const App = () => {
   return (
     <div>
-      <CounterApp/>
+ 
+<Home/>         
+      
     </div>
   )
 }
